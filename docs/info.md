@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Basta it works perfectly
 
 ## How to test
 
-Explain how to use your project
+ai mo nalang pano itest
 
 ## External hardware
 
